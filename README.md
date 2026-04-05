@@ -5,11 +5,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  [SYS_BOOT] >> Initializing profile of TANISHQ BAPNA...             ║
-║  [STATUS]   >> MSc Cybersecurity @ National College of Ireland       ║
-║  [ROLE]     >> Aspiring SOC Analyst | Defensive Security             ║
-║  [LOCATION] >> Dublin, Ireland 🇮🇪                                   ║
-║  [ACCESS]   >> GRANTED ✓                                             ║
+║  [SYS_BOOT] >> Initializing profile of TANISHQ BAPNA...              
+║  [STATUS]   >> MSc Cybersecurity @ National College of Ireland       
+║  [ROLE]     >> Aspiring SOC Analyst | Defensive Security             
+║  [LOCATION] >> Dublin, Ireland 🇮🇪                                     
+║  [ACCESS]   >> GRANTED ✓                                             
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 

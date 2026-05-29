@@ -106,7 +106,7 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 ### `> nmap -sV ~/skills`
 
 <details open>
-<summary><b>🔐 Cybersecurity & DFIR Tools</b></summary>
+<summary><b>🔐 Cybersecurity Tools</b></summary>
 <br>
 
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)

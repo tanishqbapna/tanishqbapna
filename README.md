@@ -48,6 +48,7 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 <td width="50%" valign="top">
 
 **🔍 Digital Forensics Investigator Intern**
+</br>
 `Cyber Security Corporation | Jul 2024 – Dec 2024`
 
 ```diff

@@ -65,6 +65,7 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 <td width="50%" valign="top">
 
 **🔐 Project Team Lead**
+</br>
 `Ziroh Labs | Mar 2023 – Aug 2023`
 
 ```diff

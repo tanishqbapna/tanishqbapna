@@ -154,6 +154,15 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 
 ---
 
+### `> cat ~/research/featured.log`
+
+#### 🧠 [Detecting & Reconstructing Fileless Malware / LOTL Attacks Using Memory Forensics](https://github.com/tanishqbapna/lotl-memory-forensics)
+`Volatility 3 • YARA • Sysmon • Metasploit • MITRE ATT&CK` — **MSc Thesis, NCI Dublin**
+
+> Controlled-lab research quantifying how fast forensic evidence of fileless/LOTL attacks decays in memory. Introduces a **Detection Completeness Score (DCS)** framework across 4 MITRE ATT&CK techniques (T1059.001, T1055, T1546.003, T1003.001) — mean artefact recoverability drops from **81.3% → 58.3%** within 5 minutes post-attack. Includes a custom 8-rule YARA library (0 false positives), a 5-stage forensic reconstruction methodology, and a full reproducible lab setup.
+
+---
+
 ### `> ls ~/projects/ -la`
 
 <table>

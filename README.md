@@ -160,7 +160,7 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 <tr>
 <td width="50%" valign="top">
 
-#### 🔗 [URL Security Analysis Tool](https://github.com/tanishqbapna)
+#### 🔗 [Web URL Vulnerability Scanner](https://github.com/tanishqbapna/Web-URL-Vulnerability-Scanner)
 `Python • HTML • PHP`
 
 > Automated web threat scanner processing **1,000+ URLs/session**, mitigating up to **90% of potential web threats** and cutting manual inspection time by **70%** via automated detection and reporting.
@@ -168,28 +168,28 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 </td>
 <td width="50%" valign="top">
 
-#### 👤 [Facial Authentication System](https://github.com/tanishqbapna)
-`Python • OpenCV • HTML/CSS • Bootstrap`
+#### 🛡️ [PhishGuard](https://github.com/tanishqbapna/phishgaurd)
+`HTML • Anti-Phishing`
 
-> Biometric login system with **98% face detection accuracy**, sub-**1s latency**, supporting **3+ user roles** across a responsive frontend serving **100+ active users**.
+> Phishing-detection tool built to flag malicious URLs and protect users from credential-harvesting attacks.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 📚 [Book Store Management System](https://github.com/tanishqbapna)
-`Python • MySQL • WampServer`
+#### 🔑 [Password Security](https://github.com/tanishqbapna/Password-Security)
+`Python`
 
-> Full CRUD system managing **500+ records** across books, authors & customers. Improved data-handling efficiency by **60%** via optimized SQL queries and GUI integration.
+> Password strength estimator analyzing real-world password datasets and evaluating hashing algorithm resilience.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🗑️ [Automated Smart Dustbin (IoT)](https://github.com/tanishqbapna)
-`Arduino Uno • Servo Motor • Ultrasonic Sensor`
+#### 🌐 [Secure Web Development CA](https://github.com/tanishqbapna/Secure-Web-Development-CA)
+`PHP`
 
-> Touch-free IoT prototype with **30cm detection range**, **<0.5s** response time, automated via 8-bit microcontroller — hygiene efficiency up **80%**.
+> Coursework project applying secure coding practices — input validation, auth hardening, and OWASP-aligned defenses — to a full web application.
 
 </td>
 </tr>
@@ -202,10 +202,6 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishqbapna&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqbapna&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b8b8b" />
-
-<br/>
-
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqbapna&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
 
 </div>
@@ -236,7 +232,7 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 
 ```json
 {
-  "current": {
+  "completed": {
     "degree"     : "Master of Science in Cyber Security",
     "university" : "National College of Ireland, Dublin 🇮🇪",
     "period"     : "2025 – 2026",

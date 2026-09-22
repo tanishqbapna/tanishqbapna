@@ -202,10 +202,6 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishqbapna&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqbapna&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=8b8b8b" />
-
-<br/>
-
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqbapna&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
 
 </div>
@@ -236,7 +232,7 @@ uid=1337(tanishq) groups=blueteam,dfir,soc,forensics
 
 ```json
 {
-  "current": {
+  "completed": {
     "degree"     : "Master of Science in Cyber Security",
     "university" : "National College of Ireland, Dublin 🇮🇪",
     "period"     : "2025 – 2026",
